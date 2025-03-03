@@ -1,5 +1,5 @@
 <template lang="pug">
-  router-view
+  h1 LoginPage
 </template>
 
 <script setup>
